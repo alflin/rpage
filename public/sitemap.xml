@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://shiny2.alfredlin.com/</loc>
+    <lastmod>2018-08-04T14:43:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shiny2.alfredlin.com/posts/cyp/crypto_premium_shiny/</loc>
+    <lastmod>2018-08-04T14:43:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shiny2.alfredlin.com/posts/ofo_map/</loc>
+    <lastmod>2018-04-04T14:43:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shiny2.alfredlin.com/posts/ofo_free/</loc>
+    <lastmod>2018-04-04T14:43:42+08:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alfred&#39;s Analysis</title>
+    <link>http://shiny2.alfredlin.com/posts/</link>
+    <description>Recent content in Posts on Alfred&#39;s Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2018 Copyright</copyright>
+    <lastBuildDate>Sat, 04 Aug 2018 14:43:42 +0800</lastBuildDate>
+    <atom:link href="http://shiny2.alfredlin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crypto Futures Premium</title>
+      <link>http://shiny2.alfredlin.com/posts/cyp/crypto_premium_shiny/</link>
+      <pubDate>Sat, 04 Aug 2018 14:43:42 +0800</pubDate>
+      
+      <guid>http://shiny2.alfredlin.com/posts/cyp/crypto_premium_shiny/</guid>
+      <description>&lt;p&gt;Crypto Futures Premium Dashboard&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ofo_map</title>
+      <link>http://shiny2.alfredlin.com/posts/ofo_map/</link>
+      <pubDate>Wed, 04 Apr 2018 14:43:51 +0800</pubDate>
+      
+      <guid>http://shiny2.alfredlin.com/posts/ofo_map/</guid>
+      <description>&lt;p&gt;An interactive map to click and place bikes manually&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ofo_free</title>
+      <link>http://shiny2.alfredlin.com/posts/ofo_free/</link>
+      <pubDate>Wed, 04 Apr 2018 14:43:42 +0800</pubDate>
+      
+      <guid>http://shiny2.alfredlin.com/posts/ofo_free/</guid>
+      <description>&lt;p&gt;A crowd sourced password aggregator&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
